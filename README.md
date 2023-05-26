@@ -1,5 +1,7 @@
 ### Olá visitante! Muito prazer, eu sou o Fabio e aqui você pode ver o meu portfólio de repositórios! 💾
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdvlpr&show_icons=true&bg_color=00000000)
+
 ### Tecnologias
 
 Abaixo você pode ver algumas das tecnologias que utilizo no meu dia a dia

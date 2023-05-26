@@ -14,6 +14,7 @@ Abaixo você pode ver algumas das tecnologias que utilizo no meu dia a dia
   <img align="center" src="https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/CSS-214CE5?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JavaScript-FA9C28?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/DigitalOcean-0069FF?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>

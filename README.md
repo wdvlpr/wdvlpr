@@ -6,9 +6,9 @@ Sou apaixonado por aprender e ensinar, abaixo você pode ver as tecnologias que 
 
 <div style="display: inline_block">
   <img align="center"src="https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/HTML-E54C21?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS-214CE5?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-FA9C28?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br />

@@ -7,6 +7,7 @@ Abaixo você pode ver algumas das tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block">
   <img align="center"src="https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white">
   <img align="center"src="https://img.shields.io/badge/Python-1F4462?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center"src="https://img.shields.io/badge/Apache Cordova-1A1A1A?style=for-the-badge&logo=apachecordova&logoColor=white">
   <img align="center"src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white">
   <img align="center"src="https://img.shields.io/badge/MySQL-479CAE?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center"src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
